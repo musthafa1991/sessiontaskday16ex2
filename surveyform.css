@@ -1,0 +1,42 @@
+.formbody{
+    border: 1px solid grey;
+    width: 600px;
+    padding:10px
+}
+.heading{
+    font-weight: bold;
+    font-size: 20pxpx;
+}
+td{
+    text-align: center;
+    padding-top: 10px;
+    /* padding-top: 10px; */
+}
+.td1{
+    text-align: left;
+}
+.inpwidth{
+    height: 30px;
+}
+
+.trbck{
+    background-color:hsl(0deg 0% 95%); ;
+}
+button{
+    width:100px;
+    height: 50px;
+    font-size: 24px;
+    border: 1px grey;
+}
+.checked{
+    color:orange;
+}
+body{
+    display:flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+table{
+    display: flex;
+}
